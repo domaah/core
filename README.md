@@ -1,5 +1,5 @@
 # core
-Core is an Autoclicker/Macro tool for Windows.
+Core is an Autoclicker tool for Windows.
 
 IMPORTANT: 
 Core requires .NET 4.5 and .NET 6.0 to launch.
