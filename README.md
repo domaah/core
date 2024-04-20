@@ -1,4 +1,4 @@
-# core
+# Core (LEGACY VERSION)
 Core is an Autoclicker tool for Windows.
 
 IMPORTANT: 
